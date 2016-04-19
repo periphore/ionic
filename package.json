@@ -1,0 +1,22 @@
+{
+  "name": "ionic-scaffold",
+  "version": "0.0.0",
+  "description": "Ionic scaffold",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jervenclark@github.com/periphore/ionic.git"
+  },
+  "author": "Jerven Clark Chua <jervenclark@gmail.com> (http://jervenclarkchua.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/periphore/ionic/issues"
+  },
+  "homepage": "https://github.com/periphore/ionic#readme",
+  "devDependencies": {
+    "gulpish": "^0.1.2"
+  }
+}
