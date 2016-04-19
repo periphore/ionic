@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/periphore/ionic#readme",
   "devDependencies": {
+    "gulp": "^3.9.1",
     "gulpish": "^0.1.2"
   }
 }
